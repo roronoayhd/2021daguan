@@ -7,11 +7,11 @@ This repository contains our code and pre-trained models for participating [达�
 
 <!-- Thanks for your interest in our repo! -->
 
-* 2021/09/12: 支持基于Multi-exit架构的微调(使用方法：model_type设置为"bert_pabee"即可). 
+* 2021/09/12: 支持基于Multi-exit架构的微调(model_type设置为"bert_pabee"). 
 
-* 2021/09/12: 开源第二版预训练模型(BERT-base, 预训练150k steps) [daguan-bert-base-v1] (https://pan.baidu.com/s/1YpRf1C7OziM6H34CWYzzrg). (提取码：5ct5)。
+* 2021/09/12: 开源第二版预训练模型(BERT-base, 预训练150k steps) [daguan-bert-base-v1] 
 
-* 2021/09/05: 开源第一版预训练模型(BERT-base, 预训练120k steps) [daguan-bert-base-v0] (https://pan.baidu.com/s/1LDBEs7mduUPldWjqszkzzQ). (提取码：t0bc)。
+* 2021/09/05: 开源第一版预训练模型(BERT-base, 预训练120k steps) [daguan-bert-base-v0] 
 
 
 ### 数据处理：
